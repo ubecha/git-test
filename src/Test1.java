@@ -5,4 +5,7 @@ public class Test1 {
     public void test() {
         System.out.println("test method call");
     }
+    public void test1() {
+        System.out.println("test1 called");
+    }
 }
